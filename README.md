@@ -4,7 +4,7 @@ This repository contains a C++ implementation of a grid-based game involving a s
 and a cunning wolf. The game allows players to take turns as either the sheep or the wolf, with each having
 distinct objectives and strategies. 
 The gameplay revolves around the sheep's attempt to escape the clutches of the wolf, while the wolf aims to 
-capture the sheep within a limited grid-based environmen
+capture the sheep within a limited grid-based environment.
 The project includes code for the game's logic, user interface, and file-saving functionalities. 
 
 ##ToDO
